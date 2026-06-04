@@ -76,9 +76,11 @@ If you're working in this space, I'm always open to connecting — **[in/YasasBa
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yasasbanuka&show_icons=true&hide_border=true&bg_color=ffffff&title_color=0F6E56&icon_color=0F6E56&text_color=555&rank_icon=github&hide=stars" height="150" alt="GitHub stats" />
-  &nbsp;&nbsp;
-  <img src="https://streak-stats.demolab.com/?user=yasasbanuka&hide_border=true&background=ffffff&ring=0F6E56&fire=0F6E56&currStreakLabel=0F6E56&dates=555" height="150" alt="Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yasasbanuka&theme=dark" height="150" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yasasbanuka&theme=dark" height="150" />
+  &nbsp;
+  <img src="https://streak-stats.demolab.com/?user=yasasbanuka&theme=dark&hide_border=true" height="150" />
 </p>
 
 <p align="center">
