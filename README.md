@@ -86,15 +86,3 @@ If you're working in this space, I'm always open to connecting — **[in/YasasBa
 <p align="center">
   <img src="https://raw.githubusercontent.com/YasasBanuka/YasasBanuka/output/github-contribution-grid-snake.svg" alt="contribution snake" />
 </p>
-
----
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Azure%20AZ--900-Certified-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="AZ-900">
-  &nbsp;
-  <img src="https://img.shields.io/badge/Fundamentals%20of%20DevOps-KodeKloud-00B4AB?style=flat-square" alt="DevOps cert">
-  &nbsp;
-  <img src="https://img.shields.io/badge/IEEE-TechSpark%20Chair-00629B?style=flat-square&logo=ieee&logoColor=white" alt="IEEE">
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=yasasbanuka&color=0F6E56&style=flat-square&label=profile+views" alt="views">
-</p>
