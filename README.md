@@ -1,4 +1,4 @@
-<h1 align="center">Yasas Banuka</h1>
+<h1 align="center">Yasas Banuka Malavige</h1>
 <h3 align="center">DevOps Engineer &nbsp;·&nbsp; Sri Lanka 🇱🇰</h3>
 
 <p align="center">
