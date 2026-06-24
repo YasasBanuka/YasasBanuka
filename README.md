@@ -8,20 +8,20 @@
 <p align="center">
   <a href="https://linkedin.com/in/yasasbanuka"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   &nbsp;
-  <a href="https://iamyasasbanuka.me"><img src="https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="https://yasasbanuka.com"><img src="https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"></a>
   &nbsp;
-  <a href="https://iamyasasbanuka.me/blog"><img src="https://img.shields.io/badge/Blog-0F6E56?style=flat-square&logo=hashnode&logoColor=white" alt="Blog"></a>
+  <a href="https://yasasbanuka.com/blog"><img src="https://img.shields.io/badge/Blog-0F6E56?style=flat-square&logo=hashnode&logoColor=white" alt="Blog"></a>
   &nbsp;
-  <a href="mailto:ybanuka2003@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:ybmalavige@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   &nbsp;
-  <a href="https://www.iamyasasbanuka.me/#contact-form"><img src="https://img.shields.io/badge/Open%20to%20Work-DevOps%20%2F%20SRE-0F6E56?style=flat-square" alt="Open to work"></a>
+  <a href="https://yasasbanuka.com/#contact-form"><img src="https://img.shields.io/badge/Open%20to%20Work-DevOps%20%2F%20SRE-0F6E56?style=flat-square" alt="Open to work"></a>
 </p>
 
 <br/>
 
 I'm a dual-degree undergraduate pursuing a BEng in Software Engineering alongside a BTech in Network Technology, and doing both at the same time has given me something I wouldn't have gotten from either alone: a real end-to-end view of how software actually lives in the world. That gap between development and operations is where I've ended up spending most of my time, and where I find the most interesting problems.
 
-Outside of that, I mentor students at [RoboticGen](https://robotic-gen.com), working through AI and programming projects. I'm a firm believer that the best way to master a concept is to teach it.
+Outside of that, I mentor students at [RoboticGen](https://roboticgen.co), working through AI and programming projects. I'm a firm believer that the best way to master a concept is to teach it.
 
 <br/>
 
@@ -54,7 +54,7 @@ Outside of that, I mentor students at [RoboticGen](https://robotic-gen.com), wor
 
 I spend most of my time on infrastructure - keeping things running, watching what breaks, and figuring out why. Right now, that means maintaining the server stack behind Sri Lanka's national university website (University of Vocational Technology).
 
-On the side, I'm building [Docura](https://iamyasasbanuka.me/work/docura), a document intelligence platform that runs entirely on my own EC2 instance. LLaMA for chat, ONNX for embeddings, five services in Docker Compose, Prometheus, and Grafana watching over it. No third-party APIs. Nothing leaves the box.
+On the side, I'm building [Docura](https://yasasbanuka.com/work/docura), a document intelligence platform that runs entirely on my own EC2 instance. LLaMA for chat, ONNX for embeddings, five services in Docker Compose, Prometheus, and Grafana watching over it. No third-party APIs. Nothing leaves the box.
 
 <br/>
 
@@ -62,9 +62,9 @@ On the side, I'm building [Docura](https://iamyasasbanuka.me/work/docura), a doc
 
 ### Writing
 
-I'm working through a 7-part series called [Docker: Zero to Production](https://iamyasasbanuka.me/blog) - going deep on how Docker actually works: namespaces, cgroups, OverlayFS, networking, and eventually getting all of it into production. 
+I'm working through a 7-part series called [Docker: Zero to Production](https://yasasbanuka.com/blog) - going deep on how Docker actually works: namespaces, cgroups, OverlayFS, networking, and eventually getting all of it into production. 
 
-→ **[iamyasasbanuka.me/blog](https://iamyasasbanuka.me/blog)**
+→ **[yasasbanuka.com/blog](https://yasasbanuka.com/blog)**
 
 If you're working in this space, I'm always open to connecting — **[in/YasasBanuka](https://www.linkedin.com/in/yasasbanuka)**
 
